@@ -8,3 +8,4 @@ server/node_modules/
 
 # Build
 client/dist/
+.history/
